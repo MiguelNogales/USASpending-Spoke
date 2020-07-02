@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="funding_agencie" label="Funding agencie" language="en" table="var__m_sys_hub_action_input_33ba677bdb95d010c82b5385ca961922">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>funding_agencie</element>
+            <help/>
+            <hint/>
+            <label>Funding agencie</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_33ba677bdb95d010c82b5385ca961922</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-16 19:10:56</sys_created_on>
+            <sys_id>77baab7bdb95d010c82b5385ca961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Funding agencie</sys_name>
+            <sys_package display_value="USASpending spoke" source="x_490931_usaspoke">d5135c66db5d1010c82b5385ca9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="USASpending spoke">d5135c66db5d1010c82b5385ca9619fc</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_33ba677bdb95d010c82b5385ca961922_funding_agencie_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-16 19:10:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

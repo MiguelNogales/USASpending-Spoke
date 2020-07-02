@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD7cab4ecb7395101000fef7a61afb6093</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>d5135c66db5d1010c82b5385ca9619fc</scope_name>
+        <serialized_content>{"FlowDesigner:FD7cab4ecb7395101000fef7a61afb6093":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD7cab4ecb7395101000fef7a61afb6093.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"award ids\",\"mandatory\":\"false\",\"child_name\":\"awards_child0\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD7cab4ecb7395101000fef7a61afb6093\",\"child_label\":\"awards_child0\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.string\",\"child_type\":\"string\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-14 04:19:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>30ab4ecbdb951010c82b5385ca961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD7cab4ecb7395101000fef7a61afb6093</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="USASpending spoke" source="x_490931_usaspoke">d5135c66db5d1010c82b5385ca9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USASpending spoke">d5135c66db5d1010c82b5385ca9619fc</sys_scope>
+        <sys_update_name>sys_complex_object_30ab4ecbdb951010c82b5385ca961994</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-14 04:19:57</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

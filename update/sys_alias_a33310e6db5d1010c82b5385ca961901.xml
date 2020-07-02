@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_490931_usaspoke.USASpending_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>USASpending_Alias</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 06:21:19</sys_created_on>
+        <sys_id>a33310e6db5d1010c82b5385ca961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_490931_usaspoke.USASpending_Alias</sys_name>
+        <sys_package display_value="USASpending spoke" source="x_490931_usaspoke">d5135c66db5d1010c82b5385ca9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USASpending spoke">d5135c66db5d1010c82b5385ca9619fc</sys_scope>
+        <sys_update_name>sys_alias_a33310e6db5d1010c82b5385ca961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 06:21:19</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

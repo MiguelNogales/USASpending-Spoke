@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="subaward_count" label="subaward_count" language="en" table="var__m_sys_hub_step_ext_output_f4426f0bdbd91010c82b5385ca961978">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>subaward_count</element>
+            <help/>
+            <hint/>
+            <label>subaward_count</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_f4426f0bdbd91010c82b5385ca961978</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-14 10:38:26</sys_created_on>
+            <sys_id>05426f0bdbd91010c82b5385ca9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subaward_count</sys_name>
+            <sys_package display_value="USASpending spoke" source="x_490931_usaspoke">d5135c66db5d1010c82b5385ca9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="USASpending spoke">d5135c66db5d1010c82b5385ca9619fc</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_f4426f0bdbd91010c82b5385ca961978_subaward_count_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-14 10:38:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD9d2d0263c9d19010d85efa0cd9024c31</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>d5135c66db5d1010c82b5385ca9619fc</scope_name>
+        <serialized_content>{"FlowDesigner:FD9d2d0263c9d19010d85efa0cd9024c31":{"naics_code":"String","naics_code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"naics_code\",\"mandatory\":\"true\",\"order\":\"9\",\"max_length\":\"0\"}"},"awarding_sub_agency_name":"String","awarding_sub_agency_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"awarding_sub_agency_name\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\"}"},"award_description":"String","award_description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"award_description\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"},"contracting_officers_determination_of_business_size_code":"String","contracting_officers_determination_of_business_size_code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"contracting_officers_determination_of_business_size_code\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\"}"},"awarding_agency_name":"String","awarding_agency_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"awarding_agency_name\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\"}"},"parent_award_agency_name":"String","parent_award_agency_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"parent_award_agency_name\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\"}"},"recipient_name":"String","recipient_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"recipient_name\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\"}"},"award_type":"String","award_type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"award_type\",\"mandatory\":\"true\",\"order\":\"8\",\"max_length\":\"0\"}"},"funding_office_name":"String","funding_office_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"funding_office_name\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\"}"}},"FlowDesigner:FD9d2d0263c9d19010d85efa0cd9024c31.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD9d2d0263c9d19010d85efa0cd9024c31\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"award\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 17:43:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>512d0263dbd19010c82b5385ca961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD9d2d0263c9d19010d85efa0cd9024c31</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="USASpending spoke" source="x_490931_usaspoke">d5135c66db5d1010c82b5385ca9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USASpending spoke">d5135c66db5d1010c82b5385ca9619fc</sys_scope>
+        <sys_update_name>sys_complex_object_512d0263dbd19010c82b5385ca961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 17:43:30</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
